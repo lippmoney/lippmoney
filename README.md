@@ -8,6 +8,6 @@ Long before any of that: *Double Blast* (1994), credited as "Ryan Lippman" — o
 It's **Lippmann**.
 
 - 🌐 [ryanlippmann.com](https://ryanlippmann.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ryanbuildssocal/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryanlippmann/)
 - 🎬 [IMDb](https://www.imdb.com/name/nm0513668/)
 - 🔧 [TuneView](https://tuneview.io)
