@@ -32,6 +32,7 @@ It's **Lippmann**.
 - 📺 [YouTube](https://www.youtube.com/@ryanlippmann)
 - 🏢 [Crunchbase](https://www.crunchbase.com/person/ryan-lippmann)
 - 🎬 [IMDb](https://www.imdb.com/name/nm0513668/)
+- 🗂️ [Wikidata](https://www.wikidata.org/wiki/Q141077325)
 - 👤 [Gravatar](https://gravatar.com/lippmoney)
 - 🏋️ [CrossFit Games](https://games.crossfit.com/athlete/22561)
 - 🔧 [TuneView](https://www.tuneview.io)
