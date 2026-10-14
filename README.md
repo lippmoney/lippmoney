@@ -1,6 +1,6 @@
 # Ryan Lippmann
 
-Senior construction project manager (20+ years, Orange County, California).
+Senior construction project manager in Orange County, California, with construction experience since 2001.
 Founder of [TuneView](https://www.tuneview.io) — automotive tuning analysis that grades
 engine calibrations against real datalogs. TuneView's [company and founder page](https://www.tuneview.io/about)
 connects that product record to my official site. Principal of Pacific Project Controls.
@@ -10,12 +10,16 @@ It's **Lippmann**.
 
 ## Selected work & writing
 
+- [Construction career record](https://ryanlippmann.com/career/) — roles, projects, locations, and named project values, with independent sources for the DPR Construction work.
+- [Who is Ryan Lippmann?](https://ryanlippmann.com/blog/who-is-ryan-lippmann/) — my construction practice, Pacific Project Controls, and the work behind TuneView.
 - [Verified public record](https://ryanlippmann.com/record/) — direct DPR, Bisnow, TuneView, and first-party sources in one canonical record.
 - [Healthcare construction public record and controls framework](https://ryanlippmann.com/blog/healthcare-construction-project-controls-case-study/) — source-backed project context plus a practical framework for phasing, schedule, cost, risk, and owner decisions.
 - [Shriners structural milestone](https://www.dpr.com/media/press-releases/dpr-celebrates-structural-milestone-on-new-medical-center-in-pasadena-for-s) — DPR's project release identifies me as its Senior Project Manager.
 - [Healthcare expansion trends](https://www.bisnow.com/news/national/healthcare/exclusive-qa-dpr-construction-senior-project-manager-on-trends-in-healthcare-expansion-60026) — a Bisnow Q&A from my work as a DPR Construction senior project manager.
 - [Measurement beats opinion, every time](https://www.linkedin.com/pulse/measurement-beats-opinion-every-time-ryan-lippmann-yvlwc) — the rule I carry from jobsites into engines.
 - [What project controls really do](https://ryanlippmann.com/blog/what-project-controls-really-do/) — schedule, cost, and risk reporting that tells the truth.
+- [Weekly project controls review](https://ryanlippmann.com/blog/weekly-project-controls-review/) — a practical meeting structure for schedule, cost, risk, and decisions.
+- [Construction handoff checklist](https://ryanlippmann.com/blog/construction-handoff-checklist/) — the records field and office teams need to keep work moving.
 - [Grading a tune like a jobsite](https://ryanlippmann.com/blog/grading-a-tune-like-a-jobsite/) — reading a datalog the way you read a schedule.
 
 ## In the garage
